@@ -1,6 +1,8 @@
 # Machine_learning
 Projects on machine learning models: Classifications, regression, forecasting and fuzzy matching
 
+EV Ather data was provided as an assignment for job role: I have performed intial data analysis and currently working on model building. 
+
 Clickstream data(Propensity model) : Imbalanced data set which had (100000,958), which required pre-processing of datetime atributes and cleaning out null values. Classification  modelling starts with collecting feature importance through random-forest feature selection and permutation importance. CV hyper parameter tuned models.
 Model also has comparision between regularized and unregularized models accuracy and AUC. 
 
